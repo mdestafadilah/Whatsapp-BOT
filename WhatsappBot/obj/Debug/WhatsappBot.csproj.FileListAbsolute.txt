@@ -77,3 +77,7 @@ C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\bin\Debug\selenium-manager\macos\s
 C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\bin\Debug\selenium-manager\windows\selenium-manager.exe
 C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\bin\Debug\WhatsappBot.exe.manifest
+C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\bin\Debug\WhatsappBot.application
+C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\obj\Debug\WhatsappBot.exe.manifest
+C:\Users\RSUP\DEV\C#\Whatsapp-BOT\WhatsappBot\obj\Debug\WhatsappBot.application
